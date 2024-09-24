@@ -4,9 +4,9 @@
 ## 範例
 <img src="https://github.com/user-attachments/assets/7e8fcecc-8217-4580-89b3-62837f2b359e" width=50% height=50%>
 
-第一個問題若是單姓輸入0，複姓輸入1
+第一個問題為單姓或複姓，若是單姓輸入0，複姓輸入1
 
-第二個問題若是單名輸入0，複名輸入1
+第二個問題為單名或複名，若是單名輸入0，複名輸入1
 
 <img src="https://github.com/user-attachments/assets/067054f3-8c7b-4b45-8a5e-a5ae46f7ddab" width=50% height=50%>
 
