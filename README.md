@@ -6,12 +6,6 @@
 
 2.判斷你的三才五格關係
 
-## 🌐運作環境
-
-請使用rars模擬器，不同的模擬器可能導致程式執行結果不同
-
-rars:https://www.rose-hulman.edu/class/csse/csse232/Lab1/rars_27a7c1f.jar
-
 ## 範例
 <img src="https://github.com/user-attachments/assets/7e8fcecc-8217-4580-89b3-62837f2b359e" width=50% height=50%>
 
@@ -20,6 +14,12 @@ rars:https://www.rose-hulman.edu/class/csse/csse232/Lab1/rars_27a7c1f.jar
 第二個問題為單名或複名，若是單名輸入0，複名輸入1
 
 <img src="https://github.com/user-attachments/assets/067054f3-8c7b-4b45-8a5e-a5ae46f7ddab" width=50% height=50%>
+
+## 🌐運作環境
+
+請使用rars模擬器，不同的模擬器可能導致程式執行結果不同
+
+rars:https://www.rose-hulman.edu/class/csse/csse232/Lab1/rars_27a7c1f.jar
 
 ## 📝說明
 這只是我個人的大學作業，結果可能並不準確
