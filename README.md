@@ -5,7 +5,8 @@
 1.分析你的天格、人格、地格、外格、總格
 2.判斷你的三才五格關係
 
-## 運作環境
+## 🌐運作環境
+請使用rars模擬器，不同的模擬器可能導致程式執行結果不同
 rars:https://www.rose-hulman.edu/class/csse/csse232/Lab1/rars_27a7c1f.jar
 
 ## 範例
