@@ -1,6 +1,13 @@
 # 三才五格姓名分析
 輸入姓名筆畫後幫你分析你的三才五格
 
+## 🚩功能
+1.分析你的天格、人格、地格、外格、總格
+2.判斷你的三才五格關係
+
+## 運作環境
+rars:https://www.rose-hulman.edu/class/csse/csse232/Lab1/rars_27a7c1f.jar
+
 ## 範例
 <img src="https://github.com/user-attachments/assets/7e8fcecc-8217-4580-89b3-62837f2b359e" width=50% height=50%>
 
