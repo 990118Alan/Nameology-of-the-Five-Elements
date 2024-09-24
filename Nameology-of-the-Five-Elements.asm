@@ -1,5 +1,4 @@
 .data
-name:.string "s1111622"
 str1: .string " input number M= "
 str2: .string "If you are single surname, input 0"
 str3:.string "If you are double-barrelled surname ,input 1"
@@ -30,16 +29,9 @@ secone_last_name:.word
 #t0=first_last_name,t1=secone_last_name,t2=first character on the first name,t3=first character on the first name
 #t0~t4 initialization=-1,a2=sky,a3=people,a4=land,a5=outside,a6=total
 main:
-#output "s1111622"
-	la      a0, name
-        li       a7, 4
-        ecall
- 	li a0, '\n'           
-    	li a7, 11  
-    	
     	li t4,10
     	li a6,0
-        ecall
+
 input_last_name:
         la      a0, str2
         li       a7, 4
